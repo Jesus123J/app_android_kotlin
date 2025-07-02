@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">EVA1_ThiagoJesus_Gutierrezdelatorre</string>
+
+    <string-array name="listMenu">
+        <item>Ceviche</item>
+        <item>Arroz con Pollo</item>
+        <item>Lomo Saltado</item>
+    </string-array>
+
+
+</resources>
